@@ -1,6 +1,6 @@
 # HW04
 
-# My4HW-1
+# MyHomeWOrk #04
 
 this homework is where you can start the a quiz. it took from alot of hours to Work on it becuase ot the logic behind. 
 
